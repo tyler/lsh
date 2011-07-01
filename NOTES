@@ -1,0 +1,1 @@
+Projections should be the maximum vector length.  In other words, the number of words in the vocabulary.  There should be N of them where N is the number of bits in the keys.
